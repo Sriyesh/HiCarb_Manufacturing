@@ -83,7 +83,7 @@ body {
 }
 
 .animate-grow-shrink {
-  animation: grow-shrink 1.4s ease-in-out infinite;
+  animation: grow-shrink 1.5s ease-in-out infinite;
 }
 
 /* Adding professional animations and keyframes */
