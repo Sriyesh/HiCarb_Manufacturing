@@ -124,15 +124,6 @@ export default function ProductCard({ item }) {
                     </ul>
                   </div>
                 )}
-
-                <div className="mt-6 flex justify-end">
-                  <button
-                    onClick={() => setOpen(false)}
-                    className="rounded-md bg-amber-500 px-4 py-2 text-white text-sm font-semibold hover:bg-amber-600"
-                  >
-                    Close
-                  </button>
-                </div>
               </div>
             </div>
           </div>
